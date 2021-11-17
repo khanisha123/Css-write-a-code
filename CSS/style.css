@@ -1,0 +1,212 @@
+ 
+/* .main{
+
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-width:2px;
+    border-style: dashed;*/
+     /* border: 2px dashed cornflowerblue;
+    border-top: 4px;
+
+    (borderi çərçivəyə salır)
+    border: solid 5px green;
+
+     (border ust çərçivəni yox edir)
+    border-top: none;  */
+
+/* }   */
+
+/* .test{
+
+    /* width: 400px; */
+    /* min-width: 400px; */
+    /* max-width: 400px;
+    height: 400px;
+    background-color: green; */
+/* } */
+
+    /* .test{
+
+        width: 200px;
+        height: 200px;
+        background-color: aqua;
+        padding: 10px  20 px 30 px 18 px;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+
+    } */
+
+    /* .test{
+
+     width: 200px;
+     height: 200px;
+     background-color: blue;
+     margin: 60px;
+
+    }
+    .test2{
+     
+        width: 200px;
+        height: 200px;
+        background-color: brown;
+        margin: 100px;
+    } */
+
+    /* p{
+        /* (elementi html den silir hec bir yer tutmur) */
+        /* display: none; */
+        /* (element saytdan silinir amma html den silinmir) */
+        /* visibility: hidden; */
+        /* (inline block u inline etmek ucundur) */
+        /* display: inline; */
+    /* } */
+
+    /* span { */
+       
+        /* (inline elementini block etmek ucundur) */
+        /* display: block; */
+
+        /* (inline elemente width vermek olmur amma spana inline block vermekle ona xususiyyet elave etmis oluruq 
+        yeni spana width vere bilirik ) */
+        /* display: inline-block; */
+        /* display: ; */
+        /* width: 200px; */
+    /* } */
+
+
+    /* (default div in position u static di) */
+
+    /* (body default u relavive di) */
+
+
+    /* .test{
+
+        width: 200px;
+        height: 200px;
+        border: 2px solid green;
+        position: relative;
+        top: 50px;
+    } */
+
+     /* .main{
+
+        width: 100px;
+        height: 100px;
+        border: 2px green;
+        position: relative;
+        right: 0px;
+        bottom: 20px;
+     } */
+     /* .main{
+
+        width: 100px;
+        height: 100px;
+        border: green solid 2px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        z-index: 10000;
+
+     }
+
+     .main2{
+
+        width: 100px;
+        height: 100px;
+        border: blue solid 2px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+
+     }
+
+     h1{
+        
+        text-align: center;
+     }
+     h2{
+         text-align: left;
+     }
+     h3{
+         text-align: right;
+     } */
+     
+     /* a{
+         text-decoration: none;
+     } */
+     /* h2{
+         text-decoration: overline;
+     }
+     h3{
+
+        text-decoration: line-through;
+     }
+     h4{
+         text-decoration: underline;
+     } */
+
+     /* (butun herifleri boyuk ile yazdirir) */
+     /* p.uppercase{
+
+        text-transform: uppercase;
+     } */
+
+     /* (butun herifleri balaca ile yazdirir) */
+     /* p.lowercase{
+         text-transform: lowercase;
+
+     } */
+     /* (sozde sadece birinci herifi boyuk yazir) */
+     /* p.capitalize{
+
+        text-transform: capitalize;
+     } */
+
+     /* (setrni evveline istediyin qeder bosluq qoya bilirsen) */
+     /* p{
+
+        text-indent: 50px;
+     } */
+
+     /* (sozde heriflerin arasina bosluq qoya bilerik) */
+     /* h2{
+         letter-spacing: 5px;
+     }
+
+     h3{
+      letter-spacing: -2px;
+     } */
+ 
+     /* (setir arasi bosluq qoymaq ucun) */
+     /* p.small{
+         line-height: 0.7;
+     } */
+     /* (daha boyuk bosluqlar ucun setir arasi) */
+     /* p.big{
+
+        line-height: 1.8;
+     } */
+
+     
+     /* h1{
+
+        text-shadow: 2px 2px;
+     }     */
+     /* @font-face {
+         font-family: test;
+         src: url(); */
+     /* } */
+     /* p.a{
+        font-family: "Times New Roman",Times,serif;
+     }
+     p.b{
+
+        font-family: Arial, Helvetica, sans-serif;
+     } */
+
+
+       
+    
